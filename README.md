@@ -1,4 +1,4 @@
-Tugas UTS Pemrograman WEB
-Web Penjualan Sepatu
-Nama  : Muhammad Rafli Syaban
+# Tugas UTS Pemrograman WEB
+<h3>Web Penjualan Sepatu</h3>
+Nama  : Muhammad Rafli Syaban<br>
 NIM   : 60900119037
